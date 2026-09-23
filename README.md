@@ -1,12 +1,23 @@
 # IT Support Home Lab
 
 ## Project Overview
-A simulated helpdesk environment built to practice real IT support scenarios in a safe, self-contained setup.
 
-## Environment & Tools
-- VirtualBox
-- Windows Server 2022 (evaluation)
-- Active Directory Domain Services
+A practical IT Support and Service Desk home lab designed to develop hands-on skills in Windows troubleshooting, networking, Active Directory, Microsoft 365, PowerShell, ticket management and basic IT security.
 
-## Sample Tickets
-*Coming soon — ticket resolutions will be added here as the lab is built out.*
+The lab uses simulated support scenarios and documented troubleshooting processes to demonstrate practical IT Support skills.
+
+## Current Status
+
+🚧 Lab is currently under development.
+
+## Skills Being Developed
+
+- Windows troubleshooting
+- Network troubleshooting
+- Active Directory
+- Microsoft 365 support
+- PowerShell
+- Service Desk ticket management
+- IT security fundamentals
+- Incident documentation
+- Technical troubleshooting
